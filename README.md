@@ -69,18 +69,6 @@ This analysis clearly shows that **gender, class, and age** significantly influe
 
 ---
 
-## 📁 Project Structure
-
-📦 Titanic-Survival-Analysis
-
-├── train.csv # Dataset
-
-├── Titanic.ipynb # Jupyter Notebook / Colab file
-
-├── README.md # Project summary
-
-
----
 
 ## 🚀 Run the Project
 
